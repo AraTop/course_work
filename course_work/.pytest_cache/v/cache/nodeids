@@ -1,0 +1,9 @@
+[
+  "main_test.py::test_app",
+  "main_test.py::test_endpoint",
+  "main_test.py::test_endpoint_four",
+  "main_test.py::test_endpoint_one",
+  "main_test.py::test_endpoint_three",
+  "main_test.py::test_endpoint_two",
+  "utils_test.py::test_get_posts_by_user"
+]
